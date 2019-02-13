@@ -1,0 +1,5 @@
+<folders>
+    <folder id="home">
+        <folder id="dev" caption="Developer" index="100"/>
+    </folder>
+</folders>

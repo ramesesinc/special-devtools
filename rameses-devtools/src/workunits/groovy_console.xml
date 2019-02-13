@@ -1,0 +1,13 @@
+<workunit>
+    <invokers>
+        <invoker folderid="/home/dev" caption="Groovy Console"/>
+        
+        <!-- form actions -->    
+        <invoker type="formActions" caption="Run" action="exec"/>
+        <invoker type="formActions" caption="Clear" action="clear"/>
+    </invokers>             
+    <code class="com.rameses.devtools.models.GroovyConsoleModel" />
+    <pages>
+        <page template="com.rameses.devtools.views.GroovyConsole" />
+    </pages>
+</workunit>

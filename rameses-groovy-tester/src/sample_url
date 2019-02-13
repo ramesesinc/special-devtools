@@ -1,0 +1,2 @@
+mysql=jdbc:mysql://localhost/testdb
+mssql=jdbc:sqlserver://127.0.0.1;DatabaseName=testdb
